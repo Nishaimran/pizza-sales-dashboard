@@ -43,3 +43,6 @@ Built while following a YouTube tutorial, then analyzed and documented by me.
 
 - [pizza_sales_queries.sql](pizza_sales_queries.sql) – SQL queries used for analysis.
 - [dashboard_overview.png](dashboard_overview.png) – Excel dashboard preview.
+
+## Dashboard Overview
+  ![Dashboard Overview](dashboard_overview.png)
